@@ -1,2 +1,1 @@
-
-This project will contain examples for api-factory framework.
+Это тестовый проект с примером использования фреймворка [api-factory](https://github.com/sbtqa/api-factory)
