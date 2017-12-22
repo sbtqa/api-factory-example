@@ -41,7 +41,7 @@
                     <skipTests>false</skipTests>
                     <argLine>
                         -javaagent:${settings.localRepository}/org/aspectj/aspectjweaver/1.8.4/aspectjweaver-1.8.4.jar
-                        -Dcucumber.options="--plugin ru.yandex.qatools.allure.cucumberjvm.AllureReporter --plugin pretty
+                        -Dcucumber.options="--plugin ru.yandex.qatools.allure.cucumberjvm.AllureReporter --plugin pretty"
                     </argLine>
                 </configuration>
                 <dependencies>
